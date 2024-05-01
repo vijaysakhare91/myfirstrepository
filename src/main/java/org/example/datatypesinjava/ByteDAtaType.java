@@ -5,6 +5,7 @@ public class ByteDAtaType {
 
 
         Byte mByteValue = 100;
+        Byte mByteValue2 = 100;
         byte myByte = 100;
         short myShort = 10000;
         int myInt = 1000000;
